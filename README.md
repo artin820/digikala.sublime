@@ -1,2 +1,0 @@
-# digikala.sublime
-digikala.sublime
